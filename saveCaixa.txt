@@ -1,0 +1,6 @@
+2|2 euros|2|20
+1|1 euro|1|20
+50|5 cêntimos|0.5|15
+20|20 cêntimos|0.2|20
+10|10 cêntimos|0.1|20
+5|5 cêntimos|0.05|19

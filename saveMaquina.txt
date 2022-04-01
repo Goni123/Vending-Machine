@@ -1,0 +1,10 @@
+A|Bolachas Maria|1|5|5
+B|Chips Ahoy|1.1|10|10
+C|Maltesers|1|8|8
+D|Pastel de Nata|0.8|5|5
+E|Twix|1.5|10|10
+F|Cheetos|0.8|8|8
+G|Compal Laranja|1.2|5|5
+H|Doritos|0.6|5|5
+I|Coca-Cola|1.6|7|7
+J|Snickers|0.8|10|10

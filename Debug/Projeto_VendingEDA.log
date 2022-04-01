@@ -1,0 +1,7 @@
+﻿  dinheiro.cpp
+  funcionario.cpp
+C:\Users\Milton Cassiano\Desktop\Universidade\2º Semestre\EDA\Projeto\Projeto_VendingEDA 08-04-2020\funcionario.cpp(295,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  maquina.cpp
+  main.cpp
+  Generating Code...
+  Projeto_VendingEDA.vcxproj -> C:\Users\Milton Cassiano\Desktop\Universidade\2º Semestre\EDA\Projeto\Projeto_VendingEDA 08-04-2020\Debug\Projeto_VendingEDA.exe

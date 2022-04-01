@@ -1,0 +1,8 @@
+C:\Users\Milton Cassiano\Desktop\Universidade\2º Semestre\EDA\Projeto\Projeto_VendingEDA\Debug\Projeto_VendingEDA.exe
+C:\Users\Milton Cassiano\Desktop\Universidade\2º Semestre\EDA\Projeto\Projeto_VendingEDA\Debug\Projeto_VendingEDA.pdb
+C:\Users\Milton Cassiano\Desktop\Universidade\2º Semestre\EDA\Projeto\Projeto_VendingEDA 30-03-2020\Debug\Projeto_VendingEDA.exe
+C:\Users\Milton Cassiano\Desktop\Universidade\2º Semestre\EDA\Projeto\Projeto_VendingEDA 30-03-2020\Debug\Projeto_VendingEDA.pdb
+C:\Users\Milton Cassiano\Downloads\projeto eda (07-04-2020)\PROJETO EDA VERSAO NOVA\PROJETO EDA\Projeto_VendingEDA\Debug\Projeto_VendingEDA.exe
+C:\Users\Milton Cassiano\Downloads\projeto eda (07-04-2020)\PROJETO EDA VERSAO NOVA\PROJETO EDA\Projeto_VendingEDA\Debug\Projeto_VendingEDA.pdb
+C:\Users\Milton Cassiano\Desktop\Universidade\2º Semestre\EDA\Projeto\Projeto_VendingEDA 08-04-2020\Debug\Projeto_VendingEDA.exe
+C:\Users\Milton Cassiano\Desktop\Universidade\2º Semestre\EDA\Projeto\Projeto_VendingEDA 08-04-2020\Debug\Projeto_VendingEDA.pdb
